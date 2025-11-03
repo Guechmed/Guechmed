@@ -24,22 +24,22 @@
 - 🎓 AI & Data Science student at **ESI Sidi Bel Abbès** (Final Year)  
 - 🔭 Currently working on **IoT security** and **Machine Learning models for RPL attack detection**  
 - 🌱 Exploring **Deep Learning, Computer Vision, and Data Engineering**  
-- 💬 I love discussing AI, Federated Learning, and data visualization  
+- 💬 I love discussing AI, Federated Learning, and Data visualization  
 - 📫 Reach me at **m.guechaoui@esi-sba.dz**  
-- 💬 Discord: **hamoudatheg**  
+- 💬 Discord: **[hamoudatheg](https://discord.com/users/your_discord_id)**  
 <!--Intro end-->
 
 ---
 
-<!-- statictics start -->
-<div align="center">
+<!-- Statistics Start -->
+<p align="center">
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamoudatheg&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=hamoudatheg&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamoudatheg&langs_count=6&count_private=true&hide_progress=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamoudatheg&langs_count=6&count_private=true&hide_progress=true&theme=radical" alt="Top Languages" />
 
-</div>
-<!-- statictics end -->
+</p>
+<!-- Statistics End -->
 
 ---
 
@@ -73,11 +73,9 @@
 
 ---
 
-<!--profile visit count-->
+<!-- Profile Visit Count -->
 <div align="center">
-  
 [![](https://visitcount.itsvg.in/api?id=hamoudatheg&icon=3&color=6)](https://visitcount.itsvg.in)
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
