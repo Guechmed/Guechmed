@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="(https://drive.google.com/drive/u/2/home)" target="_blank">
+  <a href="(https://drive.google.com/file/d/1yB2SQ5_qGFoBeL6_EJhEdrWDg_thANF6/view)" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_CV-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge">
   </a>
 </div>
