@@ -34,9 +34,9 @@
 <!-- Statistics Start -->
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamoudatheg&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Guechmed&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamoudatheg&langs_count=6&count_private=true&hide_progress=true&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guechmed&langs_count=6&count_private=true&hide_progress=true&theme=radical" alt="Top Languages" />
 
 </p>
 <!-- Statistics End -->
