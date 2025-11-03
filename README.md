@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/your_cv_link_here/view?usp=sharing" target="_blank">
+  <a href="[https://drive.google.com/file/d/your_cv_link_here/view?usp=sharing](https://drive.google.com/drive/u/2/home)" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_My_CV-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV Badge">
   </a>
 </div>
@@ -23,11 +23,11 @@
 <!--Intro start-->
 - 🎓 Final year AI & Data Science student at **ESI Sidi Bel Abbès**  
 - 🔭 Currently enhancing the **TEVAD framework** for anomaly detection  
-- 💼 Working as a **Data Analyst Agent** on the **Stika AI App** ([Website](https://stika.ai))  
+- 💼 Working as a **Data Analyst Agent** on the **Stika AI App** ([Website]([https://stika.ai](https://stika-ai.vercel.app/)))  
 - 🌱 Exploring **Deep Learning, Video Anomaly Detection, and Data Engineering**  
 - 💬 I love discussing AI, ML, and practical applications for smart systems  
 - 📫 Reach me at **m.guechaoui@esi-sba.dz**  
-- 💬 Discord: **[hamoudatheg](https://discord.com/users/your_discord_id)**  
+
 <!--Intro end-->
 
 ---
