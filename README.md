@@ -16,15 +16,16 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Curiosity drives innovation 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Exploring AI & Data Science 🚀</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🎓 AI & Data Science student at **ESI Sidi Bel Abbès** (Final Year)  
-- 🔭 Currently working on **IoT security** and **Machine Learning models for RPL attack detection**  
-- 🌱 Exploring **Deep Learning, Computer Vision, and Data Engineering**  
-- 💬 I love discussing AI, Federated Learning, and Data visualization  
+- 🎓 Final year AI & Data Science student at **ESI Sidi Bel Abbès**  
+- 🔭 Currently enhancing the **TEVAD framework** for anomaly detection  
+- 💼 Working as a **Data Analyst Agent** on the **Stika AI App** ([Website](https://stika.ai))  
+- 🌱 Exploring **Deep Learning, Video Anomaly Detection, and Data Engineering**  
+- 💬 I love discussing AI, ML, and practical applications for smart systems  
 - 📫 Reach me at **m.guechaoui@esi-sba.dz**  
 - 💬 Discord: **[hamoudatheg](https://discord.com/users/your_discord_id)**  
 <!--Intro end-->
