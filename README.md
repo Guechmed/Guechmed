@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,fastapi,django,flask,postgres,mysql,mongodb,git,github,docker,linux,ubuntu,vscode,anaconda,java,js,html,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,firebase,tensorflow,pytorch,opencv,fastapi,postgres,mysql,mongodb,git,github,docker,linux,ubuntu,vscode,anaconda,java,js,html,css&perline=12" />
   </a>
 </p>
 
