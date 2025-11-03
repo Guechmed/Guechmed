@@ -23,7 +23,7 @@
 <!--Intro start-->
 - 🎓 Final year AI & Data Science student at **ESI Sidi Bel Abbès**  
 - 🔭 Currently enhancing the **TEVAD framework** for anomaly detection  
-- 💼 Working as a **Data Analyst Agent** on the **Stika AI App** ([Website](https://stika-ai.vercel.app/)))  
+- 💼 Working as a **Data Analyst Agent**  **Stika AI App** wich is basicly chat gpt but for all kind of data  ([Website](https://stika-ai.vercel.app/)))  
 - 🌱 Exploring **Deep Learning, Video Anomaly Detection, and Data Engineering**  
 - 💬 I love discussing AI, ML, and practical applications for smart systems  
 - 📫 Reach me at **m.guechaoui@esi-sba.dz**  
