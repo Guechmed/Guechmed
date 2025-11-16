@@ -68,7 +68,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamed-guechaoui/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohamed-guechaoui-8848a627b/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.kaggle.com/mohamedguechaoui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" height="50" width="50" /></a>
 <a href="mailto:m.guechaoui@esi-sba.dz" target="blank"><img align="center" src="https://img.icons8.com/color/512/gmail-new.png" alt="gmail" height="50" width="50" /></a>
 </p>
